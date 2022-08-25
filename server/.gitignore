@@ -1,0 +1,7 @@
+/.idea/
+/russianTalesServer/system/migrations/
+/russianTalesServer/system/__pycache__/
+/russianTalesServer/russianTalesServer/__pycache__/
+/static/
+*.sqlite3
+*.pyc

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Russian_tales</string>
+
+    <string name="find_button">поиск</string>
+
+    <string name="result_100">Отлично</string>
+    <string name="result_85">Хорошо</string>
+    <string name="result_75">Не плохо</string>
+    <string name="result_0">Надо бы побольше читать</string>
+
+    <!-- edit tales -->
+    <string name="name">название</string>
+    <string name="author">автор</string>
+    <string name="characters">герои</string>
+    <string name="text">текст</string>
+    <string name="history_of_creations">история создания</string>
+    <string name="plot">сюжет</string>
+    <string name="save">сохранить</string>
+    <string name="new_tales">Создать</string>
+    <string name="remove_tales">Удалить</string>
+    <string name="remove_id">id</string>
+
+    <!-- find tales -->
+    <string name="person">именна персоонажей</string>
+    <string name="tales_name">название</string>
+    <string name="find">поиск</string>
+
+    <!--  quiz  -->
+    <string name="next">следующий</string>
+    <string name="hard">Сложность(0–5)</string>
+    <string name="questions_count">Кол-во вопросов</string>
+    <string name="id">id</string>
+
+</resources>

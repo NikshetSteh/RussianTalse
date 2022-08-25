@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quiz1_name">русский фольклор №2</string>
+
+    <string name="quiz1_questions1">Какая из перечисленных сказок является народной?</string>
+    <string name="quiz1_questions2">Как в русском фольклоре называется птица Феникс</string>
+    <string name="quiz1_questions3">Кто такой леший?</string>
+    <string name="quiz1_questions4">Какой из трех знаменитых богатырей самый слабый?</string>
+    <string name="quiz1_questions5">Что было такого в сумке богатыря Микулы Сельяниновича, что Святогор не смог ее поднять?</string>
+
+    <string name="quiz1_right1">Сивка-бурка</string>
+    <string name="quiz1_right2">Жар-птица</string>
+    <string name="quiz1_right3">Дух-хозяин леса</string>
+    <string name="quiz1_right4">Алеша Попович</string>
+    <string name="quiz1_right5">Вся тягость земная</string>
+
+    <string name="quiz1_options1_1">Сивка-бурка</string>
+    <string name="quiz1_options1_2">Сказка о царе Салтане</string>
+    <string name="quiz1_options1_3">Сказка о рыбаке и рыбке</string>
+
+    <string name="quiz1_options2_1">Жар-птица</string>
+    <string name="quiz1_options2_2">Финист</string>
+    <string name="quiz1_options2_3">Алконост</string>
+
+    <string name="quiz1_options3_1">Нечисть, обитающая в лесу</string>
+    <string name="quiz1_options3_2">Дух-хозяин леса</string>
+    <string name="quiz1_options3_3">Одичавший человек, который живет в лесу и пугает людей</string>
+
+    <string name="quiz1_options4_1">Илья Муромец</string>
+    <string name="quiz1_options4_2">Алеша Попович</string>
+    <string name="quiz1_options4_3">Добрыня Никитич</string>
+
+    <string name="quiz1_options5_1">Вся тягость земная</string>
+    <string name="quiz1_options5_2">Зерно</string>
+    <string name="quiz1_options5_3">Кирпичи</string>
+
+    <integer-array name="quiz1_options_count">
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+    </integer-array>
+
+    <integer name="quiz1_hard">1</integer>
+
+
+    <string name="quiz2_name">русский фольлор №1</string>
+
+    <string name="quiz2_questions1">Какой из перечисленных персонажей относится к персонажам русских народных сказок?</string>
+    <string name="quiz2_questions2">Кто из перечисленных авторов литературно обрабатывал русские сказки?</string>
+    <string name="quiz2_questions3">Кто в русских сказках чаще всего помогает главному герою?</string>
+    <string name="quiz2_questions4">Кто из героев взял в жены Елену премудрую?</string>
+    <string name="quiz2_questions5">Кто из русских художников писал картины по мотивам русских народных сказок?</string>
+
+    <string name="quiz2_right1">Баба-Яга</string>
+    <string name="quiz2_right2">А. Афанасьев</string>
+    <string name="quiz2_right3">Животные</string>
+    <string name="quiz2_right4">Солдат</string>
+    <string name="quiz2_right5">В. Васнецов</string>
+
+    <string name="quiz2_options1_1">Буратино</string>
+    <string name="quiz2_options1_2">Золушка</string>
+    <string name="quiz2_options1_3">Баба-Яга</string>
+
+    <string name="quiz2_options2_1">А. Афанасьев</string>
+    <string name="quiz2_options2_2">Л. Толстой</string>
+    <string name="quiz2_options2_3">К. Чуковский</string>
+
+    <string name="quiz2_options3_1">Демонические существа</string>
+    <string name="quiz2_options3_2">Животные</string>
+    <string name="quiz2_options3_3">Ожившие вещи</string>
+
+    <string name="quiz2_options4_1">Емеля</string>
+    <string name="quiz2_options4_2">Иван-царевич</string>
+    <string name="quiz2_options4_3">Солдат</string>
+
+    <string name="quiz2_options5_1">И. Шишкин</string>
+    <string name="quiz2_options5_2">В. Васнецов</string>
+    <string name="quiz2_options5_3">О. Кипренский</string>
+
+    <integer-array name="quiz2_options_count">
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+    </integer-array>
+
+    <integer name="quiz2_hard">3</integer>
+
+    <string name="quiz3_name">русский фольлор №3</string>
+
+    <string name="quiz3_questions1">Кого из этих героинь русских сказок можно считать аналогом скандинавской девы-воительницы Брюнхильды, которая могла потягаться даже с мужчинами?</string>
+    <string name="quiz3_questions2">Почему младший сын в русских сказках всегда дурак?</string>
+    <string name="quiz3_questions3">Кому удалось пленить Кощея Бессмертного?</string>
+    <string name="quiz3_questions4">Кому удалось заставить Кота-Баюна служить себе?</string>
+
+    <string name="quiz3_right1">Елена Премудрая</string>
+    <string name="quiz3_right2">А. Афанасьев</string>
+    <string name="quiz3_right3">Животные</string>
+    <string name="quiz3_right4">Солдат</string>
+
+    <string name="quiz3_options1_1">Елена Премудрая</string>
+    <string name="quiz3_options1_2">Настасья Микулишна</string>
+    <string name="quiz3_options1_3">Василиса Прекрасная</string>
+
+    <string name="quiz3_options2_1">Потому что он последний ребенок в семье</string>
+    <string name="quiz3_options2_2">Потому что он отличается складом характера от старших братьев</string>
+    <string name="quiz3_options2_3">Потому что он недалекий</string>
+
+    <string name="quiz3_options3_1">Марье Моревне</string>
+    <string name="quiz3_options3_2">Ивану-Царевичу</string>
+    <string name="quiz3_options3_3">Святогору</string>
+
+    <string name="quiz3_options4_1">Садко</string>
+    <string name="quiz3_options4_2">Иван-царевич</string>
+    <string name="quiz3_options4_3">Микуле Сельяниновичу</string>
+
+    <integer-array name="quiz3_options_count">
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+    </integer-array>
+
+    <integer name="quiz3_hard">2</integer>
+
+
+    <string name="quiz4_name">русский сказки №1</string>
+
+    <string name="quiz4_questions1">Начнем с простого. С каким зверем не встречался Колобок?</string>
+    <string name="quiz4_questions2">Что случилось с незадачливым царем из сказки Петра Ершова «Конек-горбунок»?</string>
+    <string name="quiz4_questions3">Каким испытаниям подвергал невесток царь в сказке «Царевна-лягушка»?</string>
+    <string name="quiz4_questions4">Как появилась на свет девочка Снегурочка, героиня одноименной сказки Владимира Даля?</string>
+    <string name="quiz4_questions5">Кто не помогал главной героине ни в одном из вариантов сказки «Гуси-лебеди»?</string>
+
+    <string name="quiz4_right1">С цыпленком</string>
+    <string name="quiz4_right2">Он сварился в котле с кипящей водой</string>
+    <string name="quiz4_right3">Приказал сшить рубаху, испечь хлеб и явиться на пир с танцами</string>
+    <string name="quiz4_right4">Из комочка снега, который старики поставили на окно в горшке</string>
+    <string name="quiz4_right5">Баба-яга</string>
+
+    <string name="quiz4_options1_1">С медведем</string>
+    <string name="quiz4_options1_2">С зайцем</string>
+    <string name="quiz4_options1_3">С волком</string>
+    <string name="quiz4_options1_4">С цыпленком</string>
+
+    <string name="quiz4_options2_1">Его проглотила Рыба-кит</string>
+    <string name="quiz4_options2_2">Он сварился в котле с кипящей водой</string>
+    <string name="quiz4_options2_3">Он отправился на остров Буян</string>
+    <string name="quiz4_options2_4">Он помог Ивану жениться на Царь-девице</string>
+
+    <string name="quiz4_options3_1">Устроил им состязания по уборке конюшен</string>
+    <string name="quiz4_options3_2">Велел каждой закатить пир на весь мир</string>
+    <string name="quiz4_options3_3">Приказал сшить рубаху, испечь хлеб и явиться на пир с танцами</string>
+    <string name="quiz4_options3_4">Предложил каждой пройти огонь, воду и медные трубы</string>
+
+    <string name="quiz4_options4_1">Когда Дед Мороз и Весна полюбили друг друга</string>
+    <string name="quiz4_options4_2">Из комочка снега, который старики поставили на окно в горшке</string>
+    <string name="quiz4_options4_3">Ее слепил из снега одинокий юноша с чистым сердцем</string>
+    <string name="quiz4_options4_4">Ее подбросили на крыльцо дома героев темной морозной ночью</string>
+
+    <string name="quiz4_options5_1">Мышка</string>
+    <string name="quiz4_options5_2">Ежик</string>
+    <string name="quiz4_options5_3">Печка</string>
+    <string name="quiz4_options5_4">Баба-яга</string>
+
+    <integer-array name="quiz4_options_count">
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+    </integer-array>
+
+    <integer name="quiz4_hard">2</integer>
+
+
+    <string name="quiz5_name">русский сказки №2</string>
+
+    <string name="quiz5_questions1">В какой авторской сказке встречается знаменитый афоризм «Ничего ты не получишь. / Сам себя ты, грешник, мучишь»?</string>
+    <string name="quiz5_questions2">Каким способом «чудо морское» из сказки Сергея Аксакова «Аленький цветочек» велело купцу отправить на остров его дочь?</string>
+    <string name="quiz5_questions3">Чего не делала в доме медведей главная героиня сказки Льва Толстого «Три медведя»?</string>
+    <string name="quiz5_questions4">И последний вопрос — для настоящих знатоков. Как звали главного героя сказки, которую написала для своих внуков сама императрица Екатерина II?</string>
+
+    <string name="quiz5_right1">Александр Пушкин, «Сказка о золотом петушке»</string>
+    <string name="quiz5_right2">С помощью волшебного перстня</string>
+    <string name="quiz5_right3">Не лакомилась медом</string>
+    <string name="quiz5_right4">Царевич Хлор</string>
+
+    <string name="quiz5_options1_1">Александр Пушкин, «Сказка о золотом петушке»</string>
+    <string name="quiz5_options1_2">Василий Жуковский, «Кот в сапогах»</string>
+    <string name="quiz5_options1_3">Корней Чуковский, «Айболит»</string>
+    <string name="quiz5_options1_4">Леонид Филатов, «Про Федота-стрельца, удалого молодца»</string>
+
+    <string name="quiz5_options2_1">С помощью светящегося клубка</string>
+    <string name="quiz5_options2_2">С помощью портала в зеркале</string>
+    <string name="quiz5_options2_3">С помощью заколдованного яблочка</string>
+    <string name="quiz5_options2_4">С помощью волшебного перстня</string>
+
+    <string name="quiz5_options3_1">Не ела из чашки</string>
+    <string name="quiz5_options3_2">Не лакомилась медом</string>
+    <string name="quiz5_options3_3">Не трогала ложки</string>
+    <string name="quiz5_options3_4">Не сидела на стульях</string>
+
+    <string name="quiz5_options4_1">Император Бор</string>
+    <string name="quiz5_options4_2">Принц Гелий</string>
+    <string name="quiz5_options4_3">Царевич Хлор</string>
+    <string name="quiz5_options4_4">Король Азот</string>
+
+    <integer-array name="quiz5_options_count">
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+    </integer-array>
+
+    <integer name="quiz5_hard">3</integer>
+
+
+</resources>
